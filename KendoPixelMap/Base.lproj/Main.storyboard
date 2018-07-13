@@ -3607,7 +3607,7 @@
                                 <color key="backgroundColor" red="0.034891597929999997" green="0.046158656479999997" blue="0.19216981529999999" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </view>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="0AG-Px-qnc">
-                                <rect key="frame" x="187" y="97" width="7" height="14"/>
+                                <rect key="frame" x="184" y="97" width="10" height="14"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.7453344464302063" green="0.74869108200073242" blue="0.76863086223602295" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                             </view>
