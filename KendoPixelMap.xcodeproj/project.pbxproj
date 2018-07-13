@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BC0D5A4820F90DFC0073DD2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC0D5A4720F90DFC0073DD2C /* Assets.xcassets */; };
 		BC86C49120F4A53900D882EA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC86C49020F4A53900D882EA /* AppDelegate.swift */; };
 		BC86C49320F4A53900D882EA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC86C49220F4A53900D882EA /* ViewController.swift */; };
 		BC86C49620F4A53900D882EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC86C49420F4A53900D882EA /* Main.storyboard */; };
-		BC86C49820F4A53D00D882EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC86C49720F4A53D00D882EA /* Assets.xcassets */; };
 		BC86C49B20F4A53D00D882EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC86C49920F4A53D00D882EA /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BC0D5A4720F90DFC0073DD2C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC86C48D20F4A53900D882EA /* KendoPixelMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KendoPixelMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC86C49020F4A53900D882EA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BC86C49220F4A53900D882EA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BC86C49520F4A53900D882EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BC86C49720F4A53D00D882EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BC86C49A20F4A53D00D882EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BC86C49C20F4A53D00D882EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,9 +57,9 @@
 				BC86C49020F4A53900D882EA /* AppDelegate.swift */,
 				BC86C49220F4A53900D882EA /* ViewController.swift */,
 				BC86C49420F4A53900D882EA /* Main.storyboard */,
-				BC86C49720F4A53D00D882EA /* Assets.xcassets */,
 				BC86C49920F4A53D00D882EA /* LaunchScreen.storyboard */,
 				BC86C49C20F4A53D00D882EA /* Info.plist */,
+				BC0D5A4720F90DFC0073DD2C /* Assets.xcassets */,
 			);
 			path = KendoPixelMap;
 			sourceTree = "<group>";
@@ -123,7 +123,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC86C49B20F4A53D00D882EA /* LaunchScreen.storyboard in Resources */,
-				BC86C49820F4A53D00D882EA /* Assets.xcassets in Resources */,
+				BC0D5A4820F90DFC0073DD2C /* Assets.xcassets in Resources */,
 				BC86C49620F4A53900D882EA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
